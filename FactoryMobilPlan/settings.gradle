@@ -1,0 +1,2 @@
+rootProject.name='Factory Mobil Plan'
+include ':app'
