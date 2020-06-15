@@ -36,6 +36,8 @@ class GameViewModel : ViewModel(){
     }
     private val timer: CountDownTimer
 
+
+
     // current Time
     private val _currentTime = MutableLiveData<Long>()
     val currentTime: LiveData<Long>
